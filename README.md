@@ -1,2 +1,3 @@
 # Machine-Learning-Blogs
-A repository for some blogs related to various papers
+A repository for various blogs written based on various papers
+
